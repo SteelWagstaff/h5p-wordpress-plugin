@@ -1,4 +1,4 @@
-﻿=== Interactive Content – H5P ===
+=== Interactive Content – H5P ===
 Contributors: icc0rz, fnoks, falcon28
 Donate link: http://h5p.org
 Tags: editor, video, quiz, slider, education
@@ -416,7 +416,7 @@ Fix resizing bug for iframe embeds.
 Fix issue with temporary files.
 
 = 1.12.0 =
-Improved API for better support with PressBooks.
+Improved API for better support with Pressbooks.
 Added Copy/Paste support for single libraries in Editor.
 Added support for semi-fullscreen in Editor. (used in Branching Scenario)
 Added support for Audio Recorder in default audio widget. (used in Memory Game)
